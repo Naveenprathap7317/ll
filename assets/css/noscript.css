@@ -1,0 +1,13 @@
+.reveal,.card,.hero-sub,.hero-cta,.vm div{opacity:1 !important;transform:none !important;translate:none !important}
+.h1 .ln>span{transform:none !important}
+.big .w{opacity:1;filter:none;transform:none}
+.vision,.principles{height:auto}
+.vision .stick,.principles .stick{position:static;height:auto;overflow:visible;padding:clamp(80px,12vh,140px) 0}
+.track{flex-direction:column;padding:0 var(--pad)}
+.pp{flex:none;opacity:1;filter:none}
+.pr-bar,.pr-count,.rail,canvas{display:none !important}
+.stage .fallback{display:block}
+.st h3{color:var(--ink)} .st p{opacity:1}
+.ind h3{color:var(--ink)} .ind p{opacity:1;transform:none}
+.mnav,.burger{display:none !important}
+.rv,.wd>span,.wipe{opacity:1 !important;transform:none !important;clip-path:none !important}

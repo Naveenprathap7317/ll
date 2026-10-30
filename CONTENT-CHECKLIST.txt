@@ -1,0 +1,97 @@
+LEARNLIKE WEBSITE: CONTENT CHECKLIST
+Every page of learnlike.in, and where its content lives in the new site.
+
+HOME (learnlike.in)                         -> index.html
+  Hero, motto, 3 highlights, 4 stats         -> index.html (hero, solutions, stats)
+  About + journey                            -> index.html, about.html
+  Why choose Learnlike (6 features)          -> index.html (approach, solutions)
+  Product logos                              -> index.html (programs grid), solutions.html
+  Top clients (13 logos)                     -> index.html (logo strip), partners.html#clients
+  Popular courses (3, with prices)           -> index.html#courses
+  Student testimonials (3)                   -> index.html#stories
+  Tamizh App banner + store links            -> index.html#app, footer
+
+WHO WE ARE
+  About Learnlike, Mission, Vision, Values   -> about.html#who, #mission, #values
+  Leadership team (4) + team (13)            -> about.html#team (leaders also on index.html)
+  Our Story                                  -> about.html#story
+  Where We Work (India, Singapore, 3 coming) -> about.html#reach
+
+OUR SOLUTIONS (all on solutions.html, with a jump menu)
+  Tamizh App (features, audience, stores)    -> #tamizh
+  LL CBSE (why, what students get, app)      -> #cbse
+  ICSE, IGCSE & IB (objectives, features,
+    3 programs, audience, app)               -> #icse
+  LL Skillz (4 tracks, 4 projects,
+    certification, 3 free capsules)          -> #skillz
+  Cybervault Smart Grad                      -> #smartgrad
+  Learn Space / Smarter LMS                  -> #lms
+  Smart Campus ERP (+ testimonials)          -> #erp
+  Link & Learn (+ testimonials)              -> #linklearn
+  i3Connect (+ testimonials)                 -> #i3connect
+  Skillz Lab, Cyber Lab, Robotics Lab,
+    Drone & UAV Labs                         -> #skillzlab #cyberlab #robotics #drone
+  3 books (descriptions, features, buy)      -> #books (covers also on index.html)
+
+CAREERS (careers.html)
+  Life at Learnlike (stats, why, day in the
+    life, benefits)                          -> #life
+  Employee testimonials (6) + interns (5)    -> #voices
+  Internships & training programs            -> #internships
+  Open positions (3 jobs + 3 internships)    -> #roles
+  How to apply                               -> #apply
+
+OUR COLLABORATORS (partners.html)
+  Partner organizations (12)                 -> #network
+  Become a partner (pillars, why, 6 areas,
+    4 steps)                                 -> #become
+  Our clients (stats, 13 logos, 3 quotes)    -> #clients
+
+ACCOLADES (accolades.html)
+  Awards 2021-2024 (12) + 4 certifications   -> #awards, #certifications
+  Press & media mentions (12)                -> #media
+  Gallery (10 photos with real captions)     -> #gallery
+
+LET'S CONNECT (contact.html)
+  General inquiry + address/phone/email      -> #form
+  Request a demo (what to expect, form)      -> #demo
+  Book orders                                -> #book
+  Help center (6 categories)                 -> #help
+
+LINKED TO THE CURRENT SITE (not rebuilt)
+  - Blog articles (3): linked from index.html#insights and the footer.
+  - Course portal: training.learnlike.in
+
+NOT CARRIED OVER, ON PURPOSE
+  - Lab pages: "What Researchers Say" quotes (biochemistry and physics researchers)
+    and "Our Impact" counters that all show 0. These look like unfinished template
+    content that doesn't match the labs.
+  - Where We Work counters and "Happy Clients" counter, which show 0 on the live site.
+  - EduBot chat widget (needs a server). The contact page covers the same topics.
+  - Links that go nowhere on the live site: Knowledge Vault, Impact Stories,
+    Events & Webinars.
+
+PHOTOS ADDED
+  - Team photos: Thirumoorthi, Padmesh, Muthuselvi, Kamala Bharathi, Susmitha and
+    Sri Nathi (about.html team grid, plus careers.html testimonials).
+  - Media mention photos for all 12 news items except the United Institute MoU.
+
+STILL MISSING (add them if you have them)
+  - Tamizh App screenshots and QR codes.
+  - Gallery photos: EdTech, Pongal, New Year, Diwali, "Unlocking Potential with
+    LinkedIn Learning".
+  - Real App Store link for the Tamizh App (the live site links to a generic
+    App Store page).
+
+  - Photos of the remaining team members, and of the United Institute MoU.
+
+PLEASE CHECK
+  - "Michael Chen, Marketing" is on the live team list. The same name is also used
+    in a Smart Campus testimonial.
+  - Client testimonials (EduNex, FutureBridge, SkillForge), some award issuers and the
+    "12 countries" stat are copied as they appear on the live site.
+
+FORMS
+  The site is plain HTML, so forms open the visitor's email app with the message
+  filled in, addressed to support@learnlike.co.in. Your developer can connect them
+  to a server or form service later.
